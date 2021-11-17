@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 70%;
+    max-width: 800px;
+    margin: auto;
+    font-family: sans-serif;
+    line-height: 1.5;
+    background: url(foto_fundo_mesa.jpg) center;
+    color: #fff;
+}
+main{
+    background: #00000054;
+    border-radius: 9px;
+    padding: 20px 40px; 
+    margin-top: 50px;
+}
+
+.infocriador{
+    text-align: center;
+    color: #fff;
+    text-shadow: 0px 1px 1px black;
+    margin: 40px;
+}
+.subinfo{
+    text-align: center;
+    color: #fff;
+    text-shadow: 0px 1px 1px black;
+    margin: 40px;
+}
+
+.fotocriador{
+
+    margin: auto auto;
+    display: block;
+    width: 10em;
+    border-radius: 100px;
+
+}
+
+p{
+    text-shadow: 0px 1px 1px black;
+    color: #fff;
+    text-align: center;
+}

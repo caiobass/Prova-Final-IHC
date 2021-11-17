@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    font-family: sans-serif;
+    line-height: 1.5;
+    background: url(foto_fundo_mesa.jpg) center;
+    color: #fff;
+}
+
+.logo2 {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+}
+
+main{
+    background: #00000054;
+    border-radius: 9px;
+    padding: 20px 40px; 
+    margin-top: 50px;
+}
+
+.cardapiodia{
+    color: #00a000;
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+    text-shadow: 0px 1px 1px white;
+}
+
+.conteudo table{
+    background-color: #00a00078;
+    border-radius: 9px;
+    padding: 10px;
+    margin: 0 auto;
+    text-shadow: 0px 1px 1px white;
+}
+
+td, th{
+
+    text-align: left;
+    padding: 3px;
+    margin: 5px;
+    text-shadow: 0px 1px 1px black;
+
+}

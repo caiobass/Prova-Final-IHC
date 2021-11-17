@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 70%;
+    max-width: 800px;
+    margin: auto;
+    font-family: sans-serif;
+    line-height: 1.5;
+    background: url(foto_fundo_mesa.jpg) center;
+    color: #fff;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+
+}
+
+main{
+    background: #00000054;
+    border-radius: 9px;
+    padding: 20px 40px; 
+    margin-top: 50px;
+}
+#subhorarios{
+    color: #00a000;
+}
+
+.nome, .subtitulo, .descricao{
+    text-align: center;
+    color: #00a000;
+    text-shadow: 0px 1px 1px white;
+}
+
+.horarios{
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+    text-shadow: 0px 1px 1px white;
+}
+.horarios table{
+    background-color: #00a00078;
+    border-radius: 9px;
+    padding: 10px;
+    margin: 0 auto;
+    text-shadow: 0px 1px 1px black;
+}
+.cardapio{
+    display: block;
+    padding: 10px;
+    margin: auto auto;
+    color: #fff;
+    background-color: #00a000;
+    border-radius: 7px;
+    font-size: 22px;
+    text-shadow: 0px 1px 1px black;
+}
+
+.informacao{
+    color: #fff;
+    background-color: #00a000;
+    border-radius: 7px;
+    padding: 5px;
+    margin: auto auto;
+    text-shadow: 0px 1px 1px black;
+}
+
+.funcionarios{
+    display: block;
+    padding: 10px;
+    margin: auto auto;
+    color: #fff;
+    background-color: #00a000;
+    border-radius: 7px;
+    font-size: 22px;
+    text-shadow: 0px 1px 1px black;
+
+}
+
+td{
+
+    text-align: left;
+    padding: 3px;
+    margin: 5px;
+
+}
